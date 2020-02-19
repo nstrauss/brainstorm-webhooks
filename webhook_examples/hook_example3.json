@@ -1,0 +1,27 @@
+{
+    "event": {
+        "bluetoothMacAddress": "C0:F2:FB:37:04:2B",
+        "deviceName": "So Many iPads",
+        "icciID": "",
+        "imei": "",
+        "jssID": 13456,
+        "model": "iPad7,5",
+        "modelDisplay": "iPad 6th Generation (Wi-Fi)        ",
+        "osBuild": "14D27",
+        "osVersion": "13.3.1",
+        "product": null,
+        "room": "221",
+        "serialNumber": "VMLYP2D4819B",
+        "udid": "270aae10800b6e61a2ee2bbc285eb967050b5994",
+        "userDirectoryID": "-1",
+        "username": "Appleseed Joe",
+        "version": "13.3.1",
+        "wifiMacAddress": "C0:F2:FB:37:04:1F"
+    },
+    "webhook": {
+        "eventTimestamp": 1553550275590,
+        "id": 7,
+        "name": "Webhook Documentation",
+        "webhookEvent": "MobileDeviceEnrolled"
+    }
+}

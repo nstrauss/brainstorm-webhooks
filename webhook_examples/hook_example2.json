@@ -1,0 +1,27 @@
+{
+    "event": {
+        "bluetoothMacAddress": "C0:F2:FB:37:04:2B",
+        "deviceName": "Freddie iPad",
+        "icciID": "",
+        "imei": "",
+        "jssID": 12354,
+        "model": "iPad3,4",
+        "modelDisplay": "iPad 4th Generation (Wi-Fi)",
+        "osBuild": "14D27",
+        "osVersion": "12.2.4",
+        "product": null,
+        "room": "221",
+        "serialNumber": "VM82R4FOAI5B",
+        "udid": "270aae10800b6e61a2ee2bbc285eb967050b5994",
+        "userDirectoryID": "-1",
+        "username": "Fred Johnson",
+        "version": "12.2.4",
+        "wifiMacAddress": "C0:F2:FB:37:04:1F"
+    },
+    "webhook": {
+        "eventTimestamp": 1553550275590,
+        "id": 7,
+        "name": "Webhook Documentation",
+        "webhookEvent": "MobileDeviceEnrolled"
+    }
+}

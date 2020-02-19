@@ -1,0 +1,27 @@
+{
+    "event": {
+        "bluetoothMacAddress": "C0:F2:FB:37:04:2B",
+        "deviceName": "iPad",
+        "icciID": "",
+        "imei": "",
+        "jssID": 11219,
+        "model": "iPad4,7",
+        "modelDisplay": "iPad mini 3 (Wi-Fi)",
+        "osBuild": "14D27",
+        "osVersion": "10.2.1",
+        "product": null,
+        "room": "221",
+        "serialNumber": "DLXN69VAG5X8",
+        "udid": "270aae10800b6e61a2ee2bbc285eb967050b5994",
+        "userDirectoryID": "-1",
+        "username": "John Smith",
+        "version": "10.2.1",
+        "wifiMacAddress": "C0:F2:FB:37:04:1F"
+    },
+    "webhook": {
+        "eventTimestamp": 1553550275590,
+        "id": 7,
+        "name": "Webhook Documentation",
+        "webhookEvent": "MobileDeviceEnrolled"
+    }
+}

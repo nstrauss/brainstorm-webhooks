@@ -1,6 +1,0 @@
-# Send a webhook using curl
-curl https://hooks.zapier.com/hooks/catch/1234567/abcdefg/ -X POST -d @/Users/nstrauss/Documents/hook_example.json
-
-# For our Windows friends
-Invoke-WebRequest -Uri 'https://hooks.zapier.com/hooks/catch/1234567/abcdefg/' ‑Method Post -Body $httpBody
-
